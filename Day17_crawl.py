@@ -8,7 +8,8 @@ async def main():
     config = CrawlerRunConfig(
         deep_crawl_strategy=BFSDeepCrawlStrategy(
             max_depth=2,
-            include_external=False
+            include_external=False,
+            #max_pages=50 # Limit to 50 pages for demonstration
         ),
         scraping_strategy=LXMLWebScrapingStrategy(),
         verbose=True
@@ -19,7 +20,18 @@ async def main():
 
         print(f"Crawled {len(results)} pages in total")
 
-        # Access individual results
+        # Save results to text file
+        with open("crawl_results3.txt", "w", encoding="utf-8") as f:
+            f.write(f"Crawled {len(results)} pages in total\n\n")
+
+            for i, result in enumerate(results, start=1):
+                f.write(f"Page {i}\n")
+                f.write(f"URL: {result.url}\n")
+                f.write(f"Depth: {result.metadata.get('depth', 0)}\n")
+                f.write("-" * 50 + "\n")
+                f.flush()
+                
+        # Access individual results (for console preview)
         for result in results[:3]:  # Show first 3 results
             print(f"URL: {result.url}")
             print(f"Depth: {result.metadata.get('depth', 0)}")

@@ -1,0 +1,42 @@
+Crawled 10 pages in total
+
+Page 1
+URL: https://www.wikipedia.org
+Depth: 0
+--------------------------------------------------
+Page 2
+URL: https://de.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 3
+URL: https://fr.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 4
+URL: https://zh.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 5
+URL: https://pl.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 6
+URL: https://es.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 7
+URL: https://ja.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 8
+URL: https://en.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 9
+URL: https://it.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 10
+URL: https://ru.wikipedia.org
+Depth: 1
+--------------------------------------------------

@@ -1,0 +1,202 @@
+Crawled 50 pages in total
+
+Page 1
+URL: https://www.wikipedia.org
+Depth: 0
+--------------------------------------------------
+Page 2
+URL: https://eo.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 3
+URL: https://cs.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 4
+URL: https://de.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 5
+URL: https://es.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 6
+URL: https://en.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 7
+URL: https://ast.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 8
+URL: https://ca.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 9
+URL: https://bg.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 10
+URL: https://ceb.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 11
+URL: https://af.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 12
+URL: https://el.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 13
+URL: https://eu.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 14
+URL: https://bn.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 15
+URL: https://da.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 16
+URL: https://be.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 17
+URL: https://et.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 18
+URL: https://cy.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 19
+URL: https://ar.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 20
+URL: https://arz.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 21
+URL: https://az.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 22
+URL: https://hu.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 23
+URL: https://fr.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 24
+URL: https://fa.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 25
+URL: https://hy.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 26
+URL: https://id.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 27
+URL: https://gl.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 28
+URL: https://hi.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 29
+URL: https://hr.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 30
+URL: https://he.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 31
+URL: https://it.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 32
+URL: https://lv.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 33
+URL: https://ka.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 34
+URL: https://ko.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 35
+URL: https://lld.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 36
+URL: https://lt.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 37
+URL: https://la.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 38
+URL: https://pl.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 39
+URL: https://ja.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 40
+URL: https://nl.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 41
+URL: https://mk.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 42
+URL: https://ru.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 43
+URL: https://zh.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 44
+URL: https://pt.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 45
+URL: https://vi.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 46
+URL: https://uk.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 47
+URL: https://sq.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 48
+URL: https://sv.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 49
+URL: https://war.wikipedia.org
+Depth: 1
+--------------------------------------------------
+Page 50
+URL: https://zh-min-nan.wikipedia.org
+Depth: 1
+--------------------------------------------------
